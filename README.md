@@ -1,8 +1,8 @@
-# Algebra, Geometry and Robots Talk Slides
+# Lie Theory for Control and Estimation Talk Slides
 
 This repository will run the interactive and dynamic talk titled "Lie Theory for Control and Estimation" produced by Sepehr Saryazdi.
 
-This talk was prepared with the following main resources:
+This talk was prepared with the following main sources:
 
 https://arxiv.org/pdf/1812.01537
 
