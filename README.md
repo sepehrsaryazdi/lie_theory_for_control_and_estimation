@@ -16,6 +16,10 @@ https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b212fe3c963e72f15
 
 https://proceedings.mlr.press/v97/lezcano-casado19a/lezcano-casado19a-supp.pdf
 
+https://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf
+
+https://www.cis.upenn.edu/~cis6100/geombchap14.pdf
+
 
 To run backend server, run the following from this folder:
 
