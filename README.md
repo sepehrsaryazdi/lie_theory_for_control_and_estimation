@@ -1,8 +1,21 @@
 # Algebra, Geometry and Robots Talk Slides
 
-This repository will run the interactive and dynamic talk titled "Algebra, Geometry and Robots" as presented by Sepehr Saryazdi at the University of Sydney Mathematics Society (SUMS). 
+This repository will run the interactive and dynamic talk titled "Lie Theory for Control and Estimation" produced by Sepehr Saryazdi.
 
-A recording of the presentation is available [here](https://drive.google.com/file/d/1TEoP5Aoc57DKB4ptKwzoWVb-TJAKnSIO/view?usp=sharing). There were some typos in the slides during the presentation, which are fixed in this version. Some corrections about the history of Kempe's Universality Theorem in the presentation: there isn't evidence that Thurston realised the incorrectness of Kempe's construction or wrote down the corollary stated, although he did state the corollary without formal proof during one of his talks. See [here](https://arxiv.org/pdf/math/9807023) for more details.
+This talk was prepared with the following main resources:
+
+https://arxiv.org/pdf/1812.01537
+
+https://core.ac.uk/download/pdf/82428733.pdf
+
+https://scholar.rose-hulman.edu/cgi/viewcontent.cgi?article=1047&context=rhumj
+
+https://ethaneade.com/lie.pdf
+
+https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b212fe3c963e72f1573ba1476ad398183fa92189
+
+https://proceedings.mlr.press/v97/lezcano-casado19a/lezcano-casado19a-supp.pdf
+
 
 To run backend server, run the following from this folder:
 
@@ -13,7 +26,7 @@ python3 localServer/server.py
 Open `index.html` for the slides. This is what should appear on the HTML page. Use left/right arrow keys to navigate between slides.
 
 <p align="center">
-<img src="readme_images/title_page.png" height="600">
+<img src="readme_images/titlepage.png" height="600">
 </p>
 
 
@@ -21,7 +34,7 @@ If the HTML page is working correctly, interactive components should appear:
 
 
 <p align="center">
-<img src="readme_images/interactive_component.png" height="600">
+<img src="readme_images/interactive.png" height="600">
 </p>
 
 
