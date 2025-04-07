@@ -2,6 +2,8 @@
 
 This repository will run the interactive and dynamic talk titled "Lie Theory for Control and Estimation" produced by Sepehr Saryazdi.
 
+A recording of this talk is available [here](https://drive.google.com/file/d/11912FDxA21fmgG35MK9DkSvrwxBR7G-f/view?usp=sharing).
+
 This talk was prepared with the following main sources:
 
 https://arxiv.org/pdf/1812.01537
